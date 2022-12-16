@@ -1,0 +1,23 @@
+{
+  "name": "03-meeti",
+  "version": "0.1.0",
+  "description": "Bootstrap 5 y SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinacuna0194/PROYECTO-meeti.git"
+  },
+  "author": "Kevin Acuña",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinacuna0194/PROYECTO-meeti/issues"
+  },
+  "homepage": "https://github.com/kevinacuna0194/PROYECTO-meeti#readme",
+  "devDependencies": {
+    "bootstrap": "^5.2.3",
+    "sass": "^1.56.2"
+  }
+}
