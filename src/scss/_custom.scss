@@ -1,2 +1,16 @@
+/** Muy importante, si quieres reescribir las variables de Bootstrap, tienes que hacerlo antes de este @import 
+    * Reescribir variables
+**/
+$rojo: #F34F51;
+$verde: #0098AE;
+$oscuro: #212121;
+
+/** Asignar paleta de coloresa a Bootstrap 
+    * Reescribiendo variables
+**/
+$primary: $rojo;
+$secondary: $verde;
+$dark: $oscuro;
+
 /** Importar toda la libreria de Bootstrap **/
 @import '../../node_modules/bootstrap/scss/bootstrap.scss';
