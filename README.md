@@ -4,7 +4,7 @@ Clon de Meetup con Bootstrap 5 y SASS
 ~~~
 ---
 <p align="center" font-weight="bold">
-      <img src="https://img.shields.io/badge/ESTADO-EN%20DESARROLLO-informational?style=for-the-badge&logo=Bootstrap&logoWidth=40">
+      <img src="https://img.shields.io/badge/ESTADO-EN%20DESARROLLO-informational?style=social&logo=Bootstrap">
 </p>
 
 :zap::octocat::zap:
