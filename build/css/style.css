@@ -5,6 +5,9 @@
 /** Asignar paleta de coloresa a Bootstrap 
     * Reescribiendo variables
 **/
+/** Tipografía 
+* Primero verificar que nuestra fuente soporte 900.
+**/
 /** Importar toda la libreria de Bootstrap **/
 /*!
  * Bootstrap  v5.2.3 (https://getbootstrap.com/)
@@ -493,7 +496,7 @@ progress {
 
 .display-1 {
   font-size: calc(1.625rem + 4.5vw);
-  font-weight: 300;
+  font-weight: 900;
   line-height: 1.2;
 }
 @media (min-width: 1200px) {
@@ -504,7 +507,7 @@ progress {
 
 .display-2 {
   font-size: calc(1.575rem + 3.9vw);
-  font-weight: 300;
+  font-weight: 900;
   line-height: 1.2;
 }
 @media (min-width: 1200px) {
@@ -515,7 +518,7 @@ progress {
 
 .display-3 {
   font-size: calc(1.525rem + 3.3vw);
-  font-weight: 300;
+  font-weight: 900;
   line-height: 1.2;
 }
 @media (min-width: 1200px) {
@@ -526,7 +529,7 @@ progress {
 
 .display-4 {
   font-size: calc(1.475rem + 2.7vw);
-  font-weight: 300;
+  font-weight: 900;
   line-height: 1.2;
 }
 @media (min-width: 1200px) {
@@ -537,7 +540,7 @@ progress {
 
 .display-5 {
   font-size: calc(1.425rem + 2.1vw);
-  font-weight: 300;
+  font-weight: 900;
   line-height: 1.2;
 }
 @media (min-width: 1200px) {
@@ -548,7 +551,7 @@ progress {
 
 .display-6 {
   font-size: calc(1.375rem + 1.5vw);
-  font-weight: 300;
+  font-weight: 900;
   line-height: 1.2;
 }
 @media (min-width: 1200px) {
@@ -10775,6 +10778,9 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+.header .logo {
+  width: 10rem;
 }
 
 /*# sourceMappingURL=style.css.map */
