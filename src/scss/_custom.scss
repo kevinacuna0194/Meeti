@@ -16,6 +16,7 @@ $dark: $oscuro;
 * Primero verificar que nuestra fuente soporte 900.
 **/
 $display-font-weight: 900;
+$headings-font-weight: 700;
 
 /** Importar toda la libreria de Bootstrap **/
 @import '../../node_modules/bootstrap/scss/bootstrap.scss';
